@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**472 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**473 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=business&utm_source=github&utm_medium=readme&utm_campaign=business)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
@@ -11,7 +11,7 @@
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 32 | 5 |
 | [Business Operations](#business-operations) | 259 | 27 |
-| [Marketing & Communications](#marketing--communications) | 80 | 16 |
+| [Marketing & Communications](#marketing--communications) | 81 | 16 |
 | [Sales & Business Development](#sales--business-development) | 47 | 6 |
 | [Human Resources](#human-resources) | 54 | 2 |
 
@@ -328,7 +328,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Marketing & Communications
 
-<sub>80 open roles</sub>
+<sub>81 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -412,6 +412,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 | **Pearson** | Student Ambassador | Canada | — | Aug 26 | [Apply ↗](https://coawp.com/go/5564a1bc-4046-4c15-9614-21769ef7deee?from=github-business) |
 | **Canadian Natural Resources** | Corporate Communications, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/b386f0e4-2e51-4549-a35a-b409e8d95d94?from=github-business) |
 | **Viggle AI** | Growth & Community, Intern | Toronto, ON | — | Jul 30 | [Apply ↗](https://coawp.com/go/dfe6a422-888c-4670-aa5b-5d0ce9565461?from=github-business) |
+| **Red Bull** | Marketeer, Student | Windsor, ON | — | Jun 11 | [Apply ↗](https://coawp.com/go/c459a85c-869a-40c7-8043-b25dfa3f4976?from=github-business) |
 
 <p align="right"><sub><a href="#canadian-business-internships-2027">Back to top</a></sub></p>
 
