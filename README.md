@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**473 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**474 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=business&utm_source=github&utm_medium=readme&utm_campaign=business)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
@@ -11,7 +11,7 @@
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 32 | 5 |
 | [Business Operations](#business-operations) | 259 | 27 |
-| [Marketing & Communications](#marketing--communications) | 81 | 16 |
+| [Marketing & Communications](#marketing--communications) | 82 | 17 |
 | [Sales & Business Development](#sales--business-development) | 47 | 6 |
 | [Human Resources](#human-resources) | 54 | 2 |
 
@@ -328,10 +328,11 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Marketing & Communications
 
-<sub>81 open roles</sub>
+<sub>82 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Steel** | Growth, Intern | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/6fdee8df-3f48-49fe-b240-e6f9bae9472e?from=github-business) |
 | **Vancity** | ITS Operations & Communications, Intern | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/dc872a23-7304-483c-994e-d494507e264b?from=github-business) |
 | **Manulife** | Global WAM Marketing Strategy Operations, Co-op | Toronto, ON | Summer 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/58afb5a1-3f11-4cf8-872a-4b5be82f45a3?from=github-business) |
 | **Omnicom (incl. IPG)** | The Residency, Intern | Vancouver, BC<br><sub>Hybrid</sub> | — | Nov 12 | [Apply ↗](https://coawp.com/go/042567c9-d544-42cd-aa3b-4768ef60b4dd?from=github-business) |
