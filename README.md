@@ -4,6 +4,8 @@
 
 **474 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
+Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
+
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=business&utm_source=github&utm_medium=readme&utm_campaign=business)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
 
@@ -15,7 +17,7 @@
 | [Sales & Business Development](#sales--business-development) | 47 | 6 |
 | [Human Resources](#human-resources) | 54 | 2 |
 
-Also see the lists for [every field](https://github.com/coawp-com/Canadian-Internships-2027), [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
+Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
 ## Consulting & Strategy
 
@@ -538,4 +540,4 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ---
 
-<sub>Every role here is read from the employer's own job board by <a href="https://coawp.com/?utm_source=github&utm_medium=readme&utm_campaign=business">coawp.com</a>, and this page is rewritten every 2 hours. Apply takes you to the employer's own posting. Spotted a closed role or a mistake? <a href="https://github.com/coawp-com/Canadian-Business-Internships-2027/issues/new/choose">Report it</a>. Building something? Every role is in <a href="listings.json">listings.json</a>.</sub>
+<sub>Every role here is read from the employer's own job board by <a href="https://coawp.com/?utm_source=github&utm_medium=readme&utm_campaign=business">coawp.com</a>, and this page is rewritten every 2 hours. Apply takes you to the employer's own posting. Spotted a closed role or a mistake? <a href="https://github.com/coawp-com/Canadian-Business-Internships-2027/issues/new/choose">Report it</a>. Building something? Every role is in <a href="listings.json">listings.json</a>, free to use with a link back to coawp.com.</sub>
