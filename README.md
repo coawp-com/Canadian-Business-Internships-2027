@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**474 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**473 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -14,7 +14,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Consulting & Strategy](#consulting--strategy) | 32 | 5 |
 | [Business Operations](#business-operations) | 259 | 27 |
 | [Marketing & Communications](#marketing--communications) | 82 | 17 |
-| [Sales & Business Development](#sales--business-development) | 47 | 6 |
+| [Sales & Business Development](#sales--business-development) | 46 | 6 |
 | [Human Resources](#human-resources) | 54 | 2 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -421,7 +421,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Sales & Business Development
 
-<sub>47 open roles</sub>
+<sub>46 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -443,7 +443,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **ShyftLabs** | Business Development, Intern | Toronto, ON | — | Oct 28 | [Apply ↗](https://coawp.com/go/a174fa22-ccec-4312-a94b-d846ce3f60f1?from=github-business) |
 | **Tenstorrent** | GTM (FAE & Customer Success) and Product, Intern | Toronto, ON | — | Oct 28 | [Apply ↗](https://coawp.com/go/f686dbb3-ede7-429b-b677-2674f9944fa4?from=github-business) |
 | **Prologis** | Energy Sales, Intern | Toronto, ON | — | Oct 27 | [Apply ↗](https://coawp.com/go/9cb56525-f34a-48a5-8645-e3d4a849c62e?from=github-business) |
-| **Investissement Québec** | Exports, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/a4b58808-fdc3-403f-bd2a-ec3a1fedf7e0?from=github-business) |
 | **Tenstorrent** | IP Sales and Operations, Intern | Toronto, ON | 4 months | Oct 26 | [Apply ↗](https://coawp.com/go/c69c68bb-8684-4ab7-bc6e-5692bab70ef7?from=github-business) |
 | **Cargill** | Crop Inputs, Intern | Rosetown, SK | Summer 2027<br><sub>4 months</sub> | Oct 24 | [Apply ↗](https://coawp.com/go/ebcb9dd0-9fdc-4237-a644-9a890df26321?from=github-business) |
 | **Honeywell** | Sales Operations – Building Automation Technologies, Intern<br><sub>Requires French</sub> | Quebec | — | Oct 22 | [Apply ↗](https://coawp.com/go/6c313340-2bf2-4edd-837d-767b624083b1?from=github-business) |
