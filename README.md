@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**521 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**517 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,9 +13,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 33 | 3 |
 | [Business Operations](#business-operations) | 284 | 34 |
-| [Marketing & Communications](#marketing--communications) | 87 | 8 |
-| [Sales & Business Development](#sales--business-development) | 55 | 7 |
-| [Human Resources](#human-resources) | 62 | 4 |
+| [Marketing & Communications](#marketing--communications) | 85 | 8 |
+| [Sales & Business Development](#sales--business-development) | 54 | 7 |
+| [Human Resources](#human-resources) | 61 | 4 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
@@ -356,7 +356,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>87 open roles</sub>
+<sub>85 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -371,8 +371,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **BDO Canada** | Digital Marketing, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/4e1c47fc-63e4-4394-a939-3f93fd117edb?from=github-business) |
 | **Eli Lilly Canada** | Consumer Marketing, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/0a169d25-5e94-4708-b50c-fc50226a50c7?from=github-business) |
 | ↳ | Marketing – Cardiometabolic Health, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/df259d1a-5eef-4d2a-b64c-38cf1bc7c740?from=github-business) |
-| **AbbVie** | Marketing – Parkinson's Disease, Intern | Montréal, QC<br><sub>Hybrid</sub> | 12 months | Nov 9 | [Apply ↗](https://coawp.com/go/da7ed511-f5e1-43d7-8dd0-baaf59bb278e?from=github-business) |
-| ↳ | Marketing – Parkinson’s Disease, Intern | Montréal, QC<br><sub>Hybrid</sub> | 12 months | Nov 9 | [Apply ↗](https://coawp.com/go/7a575ea6-6ef7-47cd-803e-b6b0946d6eaa?from=github-business) |
 | **ABB** | Marketing Communications, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/fcc494f0-2793-4ffe-aa0d-1acf3da6ca8e?from=github-business) |
 | **Manulife** | Canada Retail Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/de1b87a3-4121-428a-b2e7-cbfccf77020c?from=github-business) |
 | ↳ | Digital Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/46a2a5f7-f917-4e6f-a559-8faf23e91339?from=github-business) |
@@ -452,7 +450,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Sales & Business Development
 
-<sub>55 open roles</sub>
+<sub>54 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -466,7 +464,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AGRIS Co-operative (Pride Seeds)** | Sales Agronomist, Intern | Ontario | Summer 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/cc69a657-0eb7-4b57-8b82-4e6c6a64d13b?from=github-business) |
 | ↳ | Sales Agronomist, Intern | Ontario | Summer 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/fda0a4e6-e512-49c2-95d9-c86ed621d2cb?from=github-business) |
 | **Federated Co-op Retail** | Customer Service Clerk, Student | Saskatchewan | — | Nov 10 | [Apply ↗](https://coawp.com/go/80799478-cafe-4260-b493-5b9204604e85?from=github-business) |
-| **Canada Life** | Wealth Management, Intern | Toronto, ON | 4 months | Nov 8 | [Apply ↗](https://coawp.com/go/9bbd7a7e-d5a0-4d9e-ad48-c49940853a22?from=github-business) |
 | **Spartan Controls** | Engineering Application Specialist, Co-op | Calgary, AB | Summer 2027<br><sub>12 or 16 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/2827c03b-fc76-4009-ad2c-0cdaed8a4737?from=github-business) |
 | **Sony Music Entertainment** | Commercial Partnerships, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/4ceee45d-fd32-45fa-b5b5-232737c27ba1?from=github-business) |
 | **Federated Co-op Retail** | Gas Bar Clerk, Student | Shellbrook, SK | — | Nov 6 | [Apply ↗](https://coawp.com/go/50e8a047-25d1-4375-85e2-06047f5474c5?from=github-business) |
@@ -516,7 +513,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Human Resources
 
-<sub>62 open roles</sub>
+<sub>61 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -581,7 +578,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AtkinsRéalis** | Payroll, Intern | Canada | 12 months | Sep 1 | [Apply ↗](https://coawp.com/go/72e4f40a-6798-4350-82e1-f885c70f8207?from=github-business) |
 | **Elk Valley Resources** | Talent Management, Co-op | Sparwood, BC | Winter 2027<br><sub>8 or 12 months</sub> | Sep 1 | [Apply ↗](https://coawp.com/go/95f87d31-142f-4e90-b022-ef23dfc13d8a?from=github-business) |
 | ↳ | Recruitment, Co-op | Sparwood, BC | Winter 2027<br><sub>8 or 12 months</sub> | Aug 26 | [Apply ↗](https://coawp.com/go/e158790d-ae1f-4fae-9974-a58805bd8279?from=github-business) |
-| **ARLANXEO** | HR Operations, Intern | Newfoundland and Labrador | — | Jun 24 | [Apply ↗](https://coawp.com/go/8f0f2dbf-3878-44e5-b34f-0ed1a09337da?from=github-business) |
 
 <p align="right"><sub><a href="#canadian-business-internships-2027">Back to top</a></sub></p>
 
