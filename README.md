@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**522 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**521 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -15,7 +15,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Business Operations](#business-operations) | 285 | 34 |
 | [Marketing & Communications](#marketing--communications) | 88 | 8 |
 | [Sales & Business Development](#sales--business-development) | 55 | 7 |
-| [Human Resources](#human-resources) | 61 | 4 |
+| [Human Resources](#human-resources) | 60 | 4 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
@@ -518,7 +518,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Human Resources
 
-<sub>61 open roles</sub>
+<sub>60 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -573,7 +573,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **IKO** | Benefits – Total Rewards, Co-op | Toronto, ON<br>Mississauga, ON | Winter 2027<br><sub>8 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/cccbe382-6058-4dcc-817c-957d18407f92?from=github-business) |
 | **Bombardier** | Talent Acquisition, Intern | Dorval, QC | Winter 2027 | Sep 30 | [Apply ↗](https://coawp.com/go/84ff0923-a242-4179-b45c-db410904d143?from=github-business) |
 | ↳ | Talent Acquisition, Intern | Dorval, QC | Winter 2027 | Sep 30 | [Apply ↗](https://coawp.com/go/9b0c6f52-cf3f-4b12-842f-70062ad9c0bc?from=github-business) |
-| **Bird Construction** | People & Culture – Organizational Development, Co-op | Calgary, AB | Winter 2027<br><sub>4 or 8 months</sub> | Sep 29 | [Apply ↗](https://coawp.com/go/39ed4363-29aa-498d-bdaf-1bdcc7325857?from=github-business) |
 | **Parrish & Heimbecker** | Benefits, Intern | Winnipeg, MB | 4 months | Sep 29 | [Apply ↗](https://coawp.com/go/91633c43-29b6-4cc8-b8e6-0f9eeb71ca76?from=github-business) |
 | **Bombardier** | Organizational Learning, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/cbb430a2-d3c5-4c19-8f6c-2791f0ba78b2?from=github-business) |
 | ↳ | Organizational Learning, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/ad7da57c-3483-448c-ad26-2477737c35b9?from=github-business) |
