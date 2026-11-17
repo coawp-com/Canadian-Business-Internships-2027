@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**528 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**527 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 33 | 5 |
-| [Business Operations](#business-operations) | 290 | 42 |
+| [Business Operations](#business-operations) | 289 | 42 |
 | [Marketing & Communications](#marketing--communications) | 88 | 11 |
 | [Sales & Business Development](#sales--business-development) | 55 | 10 |
 | [Human Resources](#human-resources) | 62 | 4 |
@@ -63,7 +63,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>290 open roles</sub>
+<sub>289 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -335,7 +335,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **J.D. Irving** | Operations, Intern | Saint John, NB | Winter 2027 | Sep 21 | [Apply ↗](https://coawp.com/go/cd13002b-e68a-4350-b73f-22c34f969b74?from=github-business) |
 | **Multimatic** | Purchasing, Co-op | East Gwillimbury, ON | — | Sep 20 | [Apply ↗](https://coawp.com/go/328ae542-ba61-462f-8b31-cb35757a35e4?from=github-business) |
 | **Thermo Fisher** | Supply Chain, Co-op | Mississauga, ON | — | Sep 20 | [Apply ↗](https://coawp.com/go/55ddee49-6875-440f-b6da-e2c79ae4b5ee?from=github-business) |
-| **Connor, Clark & Lunn Investment Management** | Retail Portfolio Operations, Intern | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Sep 18 | [Apply ↗](https://coawp.com/go/64af4083-2c51-4131-be0d-91bad063db61?from=github-business) |
 | **Parrish & Heimbecker** | Operations, Intern | North Battleford, SK | 4 months | Sep 18 | [Apply ↗](https://coawp.com/go/e80932ec-b730-4cd6-afe0-7a5d08883675?from=github-business) |
 | ↳ | Operations, Intern | Biggar, SK | 4 months | Sep 18 | [Apply ↗](https://coawp.com/go/58b688ce-eb56-416a-9ebc-a6cab10859fb?from=github-business) |
 | ↳ | Operations, Intern | Moosomin, SK | 4 months | Sep 18 | [Apply ↗](https://coawp.com/go/b776fdcd-3820-4992-98bc-900a01fbfc33?from=github-business) |
