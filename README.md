@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 3 |
-| [Business Operations](#business-operations) | 280 | 43 |
+| [Business Operations](#business-operations) | 280 | 44 |
 | [Marketing & Communications](#marketing--communications) | 82 | 8 |
 | [Sales & Business Development](#sales--business-development) | 51 | 7 |
 | [Human Resources](#human-resources) | 61 | 5 |
@@ -67,6 +67,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 |:--|:--|:--|:--|:--|:--|
 | **Veolia** | Process Engineering Operations, Intern | Oakville, ON | — | Nov 17 | [Apply ↗](https://coawp.com/go/4d6e6867-3223-4ad0-a0d9-4c31dfcbadf5?from=github-business) |
 | ↳ | Fleet Management and Coordination, Intern | Montréal, QC | — | Nov 17 | [Apply ↗](https://coawp.com/go/760536fd-4b93-49e0-ad34-d7446ed8b9ca?from=github-business) |
+| **Aecon** | Environment Health & Safety, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/b203e217-26ed-442c-8342-042c625c3b43?from=github-business) |
 | **Federated Co-op Retail** | Grocery Clerk, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/ee8f2ad2-3e4a-425d-a805-f3c612d78fcd?from=github-business) |
 | ↳ | Cashier, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/a6907ebd-989d-4a21-b626-86caedc74f60?from=github-business) |
 | **Equitable** | Individual Life Admin, Co-op | Waterloo, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/6b4f8408-bb79-4b54-a7eb-95796eb214e5?from=github-business) |
@@ -224,7 +225,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **J.D. Irving** | Business, Intern | Saint John, NB | Summer 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/2e83a77e-ad31-4f21-be9d-d32815f92b9e?from=github-business) |
 | **Eclipse Automation** | Logistics Coordinator, Co-op | Cambridge, ON | — | Oct 20 | [Apply ↗](https://coawp.com/go/4cb6deb4-ada7-46b2-a294-cefd7f081710?from=github-business) |
 | ↳ | Supply Chain Coordinator, Co-op | Cambridge, ON | — | Oct 20 | [Apply ↗](https://coawp.com/go/bc34c6ef-8b74-4c85-8f12-91d3fea87912?from=github-business) |
-| **Aecon** | Environment Health & Safety, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/b203e217-26ed-442c-8342-042c625c3b43?from=github-business) |
 | **Bombardier** | Customer Services – Technical Services, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/166cb74d-0a05-4bba-a957-366f3af74cc8?from=github-business) |
 | ↳ | Logistics – Operations, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/b57b1b2c-a9bf-4209-99c8-a688f7e302ca?from=github-business) |
 | ↳ | Logistics Operations, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/d101cc43-ea02-42af-bc8a-9e6c16c6af0b?from=github-business) |
