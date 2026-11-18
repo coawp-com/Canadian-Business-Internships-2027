@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**510 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**511 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,8 +12,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 33 | 3 |
-| [Business Operations](#business-operations) | 282 | 40 |
-| [Marketing & Communications](#marketing--communications) | 84 | 9 |
+| [Business Operations](#business-operations) | 285 | 43 |
+| [Marketing & Communications](#marketing--communications) | 82 | 9 |
 | [Sales & Business Development](#sales--business-development) | 51 | 7 |
 | [Human Resources](#human-resources) | 60 | 6 |
 
@@ -63,16 +63,19 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>282 open roles</sub>
+<sub>285 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **Federated Co-op Retail** | Cashier, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/a6907ebd-989d-4a21-b626-86caedc74f60?from=github-business) |
+| **Federated Co-op Retail** | Grocery Clerk, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/ee8f2ad2-3e4a-425d-a805-f3c612d78fcd?from=github-business) |
+| ↳ | Cashier, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/a6907ebd-989d-4a21-b626-86caedc74f60?from=github-business) |
 | **Equitable** | Individual Life Admin, Co-op | Waterloo, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/6b4f8408-bb79-4b54-a7eb-95796eb214e5?from=github-business) |
 | **Bombardier** | Site Services, Intern | Mississauga, ON | Summer 2027<br><sub>16 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/5886dbeb-2c3f-4273-bec0-7bfe3004f32d?from=github-business) |
+| **Hitachi** | Logistics and Inventory Management, Intern<br><sub>Requires French</sub> | Varennes, QC | — | Nov 16 | [Apply ↗](https://coawp.com/go/d1d3ffd9-a663-4f2b-8b14-82548c43669b?from=github-business) |
 | **RBC** | Business Analyst, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/f9762fbe-c0a7-4d36-87e7-d1b0e4188388?from=github-business) |
 | **RTX (Pratt & Whitney, Collins)** | Process Improvement Specialist – Leasco, Intern<br><sub>Requires French</sub> | Longueuil, QC | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/d28ea1fa-b29f-4d61-b0d8-44ca2c3185ba?from=github-business) |
 | **Saputo** | Maintenance Administrator, Intern | Port Coquitlam, BC | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/468b3722-2066-44fc-8ae5-1ea67775f62f?from=github-business) |
+| ↳ | Transformation /​ Continuous Improvement, Intern | Montréal, QC | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/68e24a8b-b2de-4f54-b9e9-c22410baa914?from=github-business) |
 | **Federated Co-op Retail** | Gas Bar Attendant, Student | North Battleford, SK | — | Nov 16 | [Apply ↗](https://coawp.com/go/b6b03a9b-14d2-42d8-b650-1ea37928e695?from=github-business) |
 | **Fanshawe Student Union** | Gamesroom Host, Intern | London, ON | — | Nov 16 | [Apply ↗](https://coawp.com/go/10f5a205-c8bf-4d19-a396-29dcc28078df?from=github-business) |
 | **Fleetway** | Sawmill Operator – Veneer Sawmill, Student | New Brunswick | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/ec0eaf2f-2ddd-49f3-9898-c8bb11e52067?from=github-business) |
@@ -354,7 +357,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>84 open roles</sub>
+<sub>82 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -386,7 +389,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Dr. Oetker** | Brand Management Professional, Intern | Newfoundland and Labrador | Winter 2027<br><sub>5 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/750bc93d-b145-4d2a-ac2b-87763f294070?from=github-business) |
 | **Promutuel Insurance** | Marketing, Student | Lévis, QC<br>St. John's, NL<br><sub>Hybrid, +4 more</sub> | — | Nov 3 | [Apply ↗](https://coawp.com/go/39f67888-36a3-4554-a650-0588066ff931?from=github-business) |
 | **Scotiabank** | Velocity – Enterprise Creative Studio, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/4501f52b-6c24-4c2c-9ac5-4f94ef8b7a78?from=github-business) |
-| **Vancity** | Communications & Business Operations, Intern | Vancouver, BC | 4 months | Nov 2 | [Apply ↗](https://coawp.com/go/e0d1c185-c720-4c38-afca-5214ec418222?from=github-business) |
 | **Tenaris** | Communications, Intern | Sault Ste. Marie, ON | — | Oct 30 | [Apply ↗](https://coawp.com/go/2219b3bb-a40b-4874-ae4a-1c43975ab56c?from=github-business) |
 | **Kensington Tours** | Marketing Performance, Intern | Toronto, ON | — | Oct 30 | [Apply ↗](https://coawp.com/go/377b38bd-7850-41c8-9194-260172ad81e6?from=github-business) |
 | **Fanshawe Student Union** | Event Ambassador, Student | London, ON | 6 months | Oct 29 | [Apply ↗](https://coawp.com/go/7c4dfe88-d0ac-4b9f-bfa1-5195cd3f51ca?from=github-business) |
@@ -412,7 +414,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Trade Marketing, Intern | Newfoundland and Labrador | Winter 2027<br><sub>5 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/feabb06f-2669-4b62-91c1-446e36bc046b?from=github-business) |
 | ↳ | Marketing Pizza Team, Intern | Newfoundland and Labrador | Winter 2027<br><sub>5 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/030ae933-8016-46c9-b700-f2626c65b49e?from=github-business) |
 | ↳ | Social Media, Intern | Newfoundland and Labrador | Winter 2027<br><sub>5 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/9fcf60e2-6336-4c65-8b47-feec5658d48c?from=github-business) |
-| **Geotab** | Events, Intern | Oakville, ON | Winter 2027<br><sub>12 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/296e6a18-76c8-4c15-8572-86f969db330e?from=github-business) |
 | **Hitachi** | Community Engagement, Intern<br><sub>Requires French</sub> | Varennes, QC | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/dbf9a17e-c4bc-4a8c-856e-ed612c4d91c7?from=github-business) |
 | **Victaulic** | Marketing, Intern | Brampton, ON | Summer 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/588bbc66-34e9-42f6-bec9-f84f62d4128a?from=github-business) |
 | **WildPlay** | Digital Marketing, Co-op | Victoria, BC<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/6c60d917-8f52-44ab-a37b-3ce6fe4f5955?from=github-business) |
@@ -511,8 +512,8 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **ERCO Worldwide** | HR, Intern | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/4e91172b-0142-48fb-93bd-61eb3c64b693?from=github-business) |
 | **BLG (Borden Ladner Gervais)** | Specialist, Recruitment and Student Programs, Intern | Toronto, ON | — | Nov 16 | [Apply ↗](https://coawp.com/go/7bd96913-a573-4f19-b981-c3ae727df79b?from=github-business) |
-| **GE Aerospace** | Human Resources, Intern<br><sub>Requires French</sub> | Saint-Eustache, QC<br>Boisbriand, QC | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/51f8ffd2-6d0d-4416-9af9-95f917742a9a?from=github-business) |
 | **Hootsuite** | People Team & Operations, Co-op | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/94f82f35-2eda-4b2c-b8cf-454d8c0abdc4?from=github-business) |
 | **Varian (Siemens Healthineers)** | HR, Intern | Canada<br><sub>Hybrid</sub> | — | Nov 15 | [Apply ↗](https://coawp.com/go/4d8547c3-1882-40c1-a034-229b0eda5bce?from=github-business) |
 | **Belden** | HR, Intern | Newfoundland and Labrador | — | Nov 11 | [Apply ↗](https://coawp.com/go/76cb9b93-7d2b-4e4b-bab2-920b5c25d359?from=github-business) |
