@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**506 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**505 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 3 |
-| [Business Operations](#business-operations) | 280 | 45 |
+| [Business Operations](#business-operations) | 279 | 45 |
 | [Marketing & Communications](#marketing--communications) | 83 | 9 |
 | [Sales & Business Development](#sales--business-development) | 50 | 7 |
 | [Human Resources](#human-resources) | 62 | 7 |
@@ -61,19 +61,19 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>280 open roles</sub>
+<sub>279 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Veolia** | Process Engineering Operations, Intern | Oakville, ON | — | Nov 17 | [Apply ↗](https://coawp.com/go/4d6e6867-3223-4ad0-a0d9-4c31dfcbadf5?from=github-business) |
 | ↳ | Fleet Management and Coordination, Intern | Montréal, QC | — | Nov 17 | [Apply ↗](https://coawp.com/go/760536fd-4b93-49e0-ad34-d7446ed8b9ca?from=github-business) |
 | **Aecon** | Environment Health & Safety, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/b203e217-26ed-442c-8342-042c625c3b43?from=github-business) |
+| **Varian (Siemens Healthineers)** | Customer Care Coordinator, Intern<br><sub>Requires French</sub> | Canada<br><sub>Hybrid</sub> | 12 months | Nov 17 | [Apply ↗](https://coawp.com/go/c3376677-1195-45c7-aee5-6fafe4c7fa9e?from=github-business) |
 | **Federated Co-op Retail** | Grocery Clerk, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/ee8f2ad2-3e4a-425d-a805-f3c612d78fcd?from=github-business) |
 | ↳ | Cashier, Student | Estevan, SK | — | Nov 17 | [Apply ↗](https://coawp.com/go/a6907ebd-989d-4a21-b626-86caedc74f60?from=github-business) |
 | **Equitable** | Individual Life Admin, Co-op | Waterloo, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/6b4f8408-bb79-4b54-a7eb-95796eb214e5?from=github-business) |
 | **Bombardier** | Site Services, Intern | Mississauga, ON | Summer 2027<br><sub>16 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/5886dbeb-2c3f-4273-bec0-7bfe3004f32d?from=github-business) |
 | **Hitachi** | Logistics and Inventory Management, Intern<br><sub>Requires French</sub> | Varennes, QC | — | Nov 16 | [Apply ↗](https://coawp.com/go/d1d3ffd9-a663-4f2b-8b14-82548c43669b?from=github-business) |
-| **RBC** | Business Analyst, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/f9762fbe-c0a7-4d36-87e7-d1b0e4188388?from=github-business) |
 | **RTX (Pratt & Whitney, Collins)** | Process Improvement Specialist – Leasco, Intern<br><sub>Requires French</sub> | Longueuil, QC | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/d28ea1fa-b29f-4d61-b0d8-44ca2c3185ba?from=github-business) |
 | **Saputo** | Maintenance Administrator, Intern | Port Coquitlam, BC | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/468b3722-2066-44fc-8ae5-1ea67775f62f?from=github-business) |
 | ↳ | Transformation /​ Continuous Improvement, Intern | Montréal, QC | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/68e24a8b-b2de-4f54-b9e9-c22410baa914?from=github-business) |
@@ -157,7 +157,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Assistant Food Store Manager, Co-op | Martensville, SK | — | Nov 3 | [Apply ↗](https://coawp.com/go/59bd70f4-ff81-4c6a-9f9f-357c7151bf58?from=github-business) |
 | **Bombardier** | Strategy and Governance – Operations Support, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>12 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/351f12d0-98c0-4b98-b203-0545f5dc7862?from=github-business) |
 | ↳ | Strategy and Governance – Operations Support, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>12 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/969e96d9-bc26-4606-9d92-fe1422ff8256?from=github-business) |
-| **Moderna** | Supply Chain Planning, Co-op<br><sub>Requires French</sub> | Laval, QC<br>Canada | 6 months | Nov 2 | [Apply ↗](https://coawp.com/go/c09414c2-8ae8-4208-9846-a0380f54f382?from=github-business) |
 | **TC Energy** | Gas Operations, Intern | North Bay, ON | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/1f06524c-51ae-4c27-8cef-61edef0593c1?from=github-business) |
 | ↳ | Operations Maintenance & Support, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/43c5df06-adc7-49d4-a6e7-c70faacbd190?from=github-business) |
 | **TMX Group** | ISO Coordinator, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/ce8a721a-1a15-47c4-ac84-03b009f354ec?from=github-business) |
