@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**497 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**493 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 29 | 4 |
-| [Business Operations](#business-operations) | 277 | 31 |
+| [Business Operations](#business-operations) | 273 | 30 |
 | [Marketing & Communications](#marketing--communications) | 80 | 5 |
 | [Sales & Business Development](#sales--business-development) | 50 | 5 |
 | [Human Resources](#human-resources) | 61 | 7 |
@@ -59,7 +59,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>277 open roles</sub>
+<sub>273 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -85,7 +85,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Maintenance, Intern | St. Thomas, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/03cd9591-9792-437e-98ad-21dbd472ff2c?from=github-business) |
 | **AIMCo** | Workplace Experience, Intern | Edmonton, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>12 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/8abe56e6-d808-4b08-98d8-1a92686ca5d6?from=github-business) |
 | **Manulife** | Canadian Operations Management, Co-op | Toronto, ON | Summer 2027<br><sub>8 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/90dc32be-96ae-40ef-874b-668408853686?from=github-business) |
-| ↳ | Transformation Delivery Analyst, Co-op | Toronto, ON<br>Waterloo, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4bd751e2-2acd-49bd-95ca-bce47fd39c77?from=github-business) |
 | **Norfolk County** | Facility Booking Representative, Student | Simcoe, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/4d62d966-424c-4819-97e1-3476cece8f0a?from=github-business) |
 | **Oak Valley Health** | Unit Secretary – Rehabilitation/​Integrated Stroke, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/9414dcad-a1c2-44d2-86b0-5e9251242648?from=github-business) |
 | **Region of Waterloo** | Water Efficiency, Intern | Kitchener, ON | Summer 2027<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/e079f28b-4a5b-4003-a64c-f4c40ab3f87c?from=github-business) |
@@ -123,7 +122,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Molson Coors** | Brewery Operations, Intern | Longueuil, QC | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/693319a4-756c-4fd4-9c84-c2c94d64d54a?from=github-business) |
 | **Saputo** | APSM Implementation, Intern | Port Coquitlam, BC<br><sub>Hybrid</sub> | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/6b51f52a-7395-427f-8a79-db12df2e0dda?from=github-business) |
 | ↳ | Transport and Fleet, Intern | Saint-Laurent, QC | — | Nov 9 | [Apply ↗](https://coawp.com/go/bc400b3d-388e-4bc6-b91a-0d5b94a58f40?from=github-business) |
-| **Sun Life** | Private Fixed Income Operations Specialist, Intern | Waterloo, ON | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/1ae1af60-ade1-47cf-b184-ce09efcc058b?from=github-business) |
 | **Enterprise Mobility Canada** | Management Trainee, Intern | Lethbridge, AB | Summer 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/0aa5ed64-f60c-48c9-afe5-8dc695ade6fb?from=github-business) |
 | **PepsiCo** | Supply Chain, Co-op | Bedford, NS | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/ccee515d-954e-4a65-b2a4-2c9af21b09b4?from=github-business) |
 | **Bison Transport** | Customs, Student | Winnipeg, MB | — | Nov 8 | [Apply ↗](https://coawp.com/go/6f4f2f5b-1346-4ce0-9b8d-5566a1d44869?from=github-business) |
@@ -159,11 +157,9 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **TMX Group** | ISO Coordinator, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/ce8a721a-1a15-47c4-ac84-03b009f354ec?from=github-business) |
 | **Veolia** | Bid Operations, Co-op | Oakville, ON<br><sub>Hybrid</sub> | 12 or 16 months | Nov 2 | [Apply ↗](https://coawp.com/go/e54e7b87-c65a-401c-beed-3c3da4abcb34?from=github-business) |
 | **ERCO Worldwide** | Supply Chain, Intern | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/9ad65074-1841-401b-be49-26011d6023e7?from=github-business) |
-| **Manulife** | Mortgage Operations Analyst, Intern | Toronto, ON | Summer 2027<br><sub>3 or 4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/5107efb1-5699-491b-b3d7-26380fcad79e?from=github-business) |
 | **Nutrien** | Dry, Intern | Saskatchewan | — | Nov 1 | [Apply ↗](https://coawp.com/go/fef47914-968f-4461-9de1-3ec03506e344?from=github-business) |
 | **Richardson International** | Agribusiness, Intern | Alberta<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/1cf96843-2994-4245-a099-f352838b58c0?from=github-business) |
 | ↳ | Agribusiness, Intern | Saskatoon, SK<br>Foam Lake, SK<br><sub>+8 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/0101bbaf-098d-4026-90ec-26bad82df234?from=github-business) |
-| ↳ | Agribusiness, Intern | Manitoba<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/90b6a14d-c00c-4588-a700-50f85caa5b83?from=github-business) |
 | **PCL Construction** | HSE, Intern | Edmonton, AB | Winter 2027 | Oct 31 | [Apply ↗](https://coawp.com/go/259f54c2-b2b9-4341-9772-d23e1140f735?from=github-business) |
 | **Cencora (Innomar Strategies)** | Seasonal Associate, Co-op<br><sub>Requires French</sub> | Ontario<br>British Columbia<br><sub>Remote, +7 more</sub> | — | Oct 30 | [Apply ↗](https://coawp.com/go/d023c3e6-9be2-4f8a-a3c4-b58c5892f827?from=github-business) |
 | **PCL Construction** | Estimating, Intern | Kelowna, BC | Winter 2027<br><sub>4 or 12 months</sub> | Oct 30 | [Apply ↗](https://coawp.com/go/86bffb1d-ae10-448e-b0cd-3b4ee1236d51?from=github-business) |
