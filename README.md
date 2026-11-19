@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**502 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**501 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 30 | 4 |
-| [Business Operations](#business-operations) | 279 | 46 |
+| [Business Operations](#business-operations) | 278 | 46 |
 | [Marketing & Communications](#marketing--communications) | 81 | 10 |
 | [Sales & Business Development](#sales--business-development) | 50 | 8 |
 | [Human Resources](#human-resources) | 62 | 7 |
@@ -60,7 +60,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>279 open roles</sub>
+<sub>278 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -312,7 +312,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Bird Construction** | Supply Chain Coordinator, Student | Edmonton, AB | Winter 2027<br><sub>4 or 8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/f1377e1b-6255-46b3-ac54-9ad4d474e1c4?from=github-business) |
 | **Bombardier** | Intern, Material Logsitics (Winter 2027)<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/c3b7e34f-5ddd-44c0-b931-2ac1d2675afd?from=github-business) |
 | ↳ | Materials Logistics, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/1c39e6e8-a7f5-4acf-8d9b-825496d0e956?from=github-business) |
-| **Semtech** | R&D Lab Coordinator, Intern | Burlington, ON | — | Sep 23 | [Apply ↗](https://coawp.com/go/88f30e70-600d-4a69-a1ae-0a4028ebb441?from=github-business) |
 | **Parrish & Heimbecker** | Operations, Intern | Manitoba | 4 months | Sep 23 | [Apply ↗](https://coawp.com/go/33510dbf-34a9-4765-a572-bd6b4efd7705?from=github-business) |
 | **Government of New Brunswick** | TeleServices Agents, Student<br><sub>Requires French</sub> | New Brunswick | — | Sep 23 | [Apply ↗](https://coawp.com/go/dc78319f-f7bb-4da1-8b2c-16c5b6bce2c7?from=github-business) |
 | **Thermo Fisher** | Equipment & Facility Maintenance, Co-op | Mississauga, ON | — | Sep 22 | [Apply ↗](https://coawp.com/go/4f9634fc-f86f-465a-b8ea-6e814b317787?from=github-business) |
