@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**501 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**500 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 30 | 4 |
 | [Business Operations](#business-operations) | 278 | 46 |
-| [Marketing & Communications](#marketing--communications) | 81 | 10 |
+| [Marketing & Communications](#marketing--communications) | 80 | 10 |
 | [Sales & Business Development](#sales--business-development) | 50 | 8 |
 | [Human Resources](#human-resources) | 62 | 7 |
 
@@ -347,7 +347,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>81 open roles</sub>
+<sub>80 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -379,7 +379,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Reedsy** | Growth Marketing – Discovery, Intern | Canada<br><sub>Remote</sub> | 6 months | Nov 5 | [Apply ↗](https://coawp.com/go/d8a3157c-6ef0-4a67-bf16-e34ba6dc9a08?from=github-business) |
 | **Dr. Oetker** | Brand Management Professional, Intern | Newfoundland and Labrador | Winter 2027<br><sub>5 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/750bc93d-b145-4d2a-ac2b-87763f294070?from=github-business) |
 | **Promutuel Insurance** | Marketing, Student | Lévis, QC<br>St. John's, NL<br><sub>Hybrid, +4 more</sub> | — | Nov 3 | [Apply ↗](https://coawp.com/go/39f67888-36a3-4554-a650-0588066ff931?from=github-business) |
-| **Scotiabank** | Velocity – Enterprise Creative Studio, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/4501f52b-6c24-4c2c-9ac5-4f94ef8b7a78?from=github-business) |
 | **Tenaris** | Communications, Intern | Sault Ste. Marie, ON | — | Oct 30 | [Apply ↗](https://coawp.com/go/2219b3bb-a40b-4874-ae4a-1c43975ab56c?from=github-business) |
 | **Kensington Tours** | Marketing Performance, Intern | Toronto, ON | — | Oct 30 | [Apply ↗](https://coawp.com/go/377b38bd-7850-41c8-9194-260172ad81e6?from=github-business) |
 | **Fanshawe Student Union** | Event Ambassador, Student | London, ON | 6 months | Oct 29 | [Apply ↗](https://coawp.com/go/7c4dfe88-d0ac-4b9f-bfa1-5195cd3f51ca?from=github-business) |
