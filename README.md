@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**498 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**497 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Consulting & Strategy](#consulting--strategy) | 30 | 4 |
+| [Consulting & Strategy](#consulting--strategy) | 29 | 4 |
 | [Business Operations](#business-operations) | 277 | 31 |
 | [Marketing & Communications](#marketing--communications) | 80 | 5 |
 | [Sales & Business Development](#sales--business-development) | 50 | 5 |
@@ -21,7 +21,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Consulting & Strategy
 
-<sub>30 open roles</sub>
+<sub>29 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -38,7 +38,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Performance Strategy Senior Associate, Intern | Toronto, ON<br>Montréal, QC<br><sub>+3 more</sub> | — | Oct 27 | [Apply ↗](https://coawp.com/go/fcb37b56-10dc-4f9c-bf8c-bacae8593d90?from=github-business) |
 | **EDF Renewables** | Canada and North East Development, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/d6785add-2fd1-4b14-a297-d65b9d019aa3?from=github-business) |
 | **FanDuel** | Commercial, Co-op | Toronto, ON | Winter, Summer 2027<br><sub>8 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/ea3cd70c-b8af-4e81-9fec-566f49701040?from=github-business) |
-| **RSM Canada** | D365 Business Central Consulting, Intern | Vancouver, BC | Summer 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/9c53b541-a17f-440c-a1e4-c9aea922f663?from=github-business) |
 | **SECURE Waste Infrastructure** | Corporate Development, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/122d38bb-abf7-44a1-b376-a89838322af5?from=github-business) |
 | **Bombardier** | Aftermarket Product Strategy – Business Development, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/07e64a30-7108-4fe4-b415-07fefc135158?from=github-business) |
 | ↳ | Aftermarket Product Strategy & Business Development, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/3708bbd8-88c0-420d-9f78-3e9a109b56ca?from=github-business) |
