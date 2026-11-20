@@ -12,9 +12,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
-| [Business Operations](#business-operations) | 271 | 40 |
-| [Marketing & Communications](#marketing--communications) | 78 | 9 |
-| [Sales & Business Development](#sales--business-development) | 52 | 8 |
+| [Business Operations](#business-operations) | 271 | 38 |
+| [Marketing & Communications](#marketing--communications) | 78 | 8 |
+| [Sales & Business Development](#sales--business-development) | 52 | 7 |
 | [Human Resources](#human-resources) | 59 | 9 |
 
 Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027), [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
