@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
-| [Business Operations](#business-operations) | 269 | 38 |
+| [Business Operations](#business-operations) | 269 | 39 |
 | [Marketing & Communications](#marketing--communications) | 78 | 8 |
 | [Sales & Business Development](#sales--business-development) | 51 | 6 |
 | [Human Resources](#human-resources) | 59 | 9 |
@@ -65,6 +65,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Hatch** | Commercial, Intern | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/bebce688-7360-4532-9785-d01f1c8df259?from=github-business) |
 | **Seaspan** | Operations & Engineering, Intern | Delta, BC | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/3131b98a-013d-4a08-94ef-15192485e103?from=github-business) |
 | **West Fraser** | Summer Student | Hinton, AB | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/639a34fc-a2a2-405e-8ed3-ecff16fad401?from=github-business) |
 | **Veolia** | Process Engineering Operations, Co-op | Oakville, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/ed15c3af-010f-45ce-96ae-8fc3ccd4fd37?from=github-business) |
@@ -212,7 +213,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Modern Niagara** | Estimating Coordinator, Co-op | Ottawa, ON | Winter 2027<br><sub>4 or 12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/852593a6-7df3-416b-94f8-f69d327c9ea1?from=github-business) |
 | **Parrish & Heimbecker** | Crop Inputs Operations, Intern | Alberta | 4 months | Oct 22 | [Apply ↗](https://coawp.com/go/9737599e-9a21-4e4f-b592-f5475699c2ff?from=github-business) |
 | **Weber Manufacturing Technologies** | Administrative – Finance /​ HR /​ IT, Co-op | Midland, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/33501f50-2cc5-4184-b791-25a2f00c23b4?from=github-business) |
-| **Hatch** | Commercial, Intern | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/bebce688-7360-4532-9785-d01f1c8df259?from=github-business) |
 | **Magellan Aerospace** | Operational Excellence, Co-op | Mississauga, ON | 8 or 12 months | Oct 21 | [Apply ↗](https://coawp.com/go/4e459949-8a2d-404a-af85-2dff686722ac?from=github-business) |
 | **Behaviour Interactive** | Product Development Coordinator, Intern | Montréal, QC<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/18ccb749-475f-4b7b-8a2d-f21f46885126?from=github-business) |
 | **Kensington Tours** | Sales Support, Co-op | Toronto, ON | — | Oct 21 | [Apply ↗](https://coawp.com/go/be1a42c7-af2c-4406-8152-cdf6c0a8f6b0?from=github-business) |
