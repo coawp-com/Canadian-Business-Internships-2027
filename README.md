@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
-| [Business Operations](#business-operations) | 266 | 38 |
+| [Business Operations](#business-operations) | 266 | 39 |
 | [Marketing & Communications](#marketing--communications) | 77 | 7 |
 | [Sales & Business Development](#sales--business-development) | 52 | 8 |
 | [Human Resources](#human-resources) | 55 | 8 |
@@ -65,6 +65,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Cintas** | Intern | Montréal, QC | — | Nov 21 | [Apply ↗](https://coawp.com/go/8ea80a86-529e-4312-9a63-71c77df0d24a?from=github-business) |
 | **Mark Anthony Group** | Quality Systems Technician, Co-op | Vancouver, BC | — | Nov 20 | [Apply ↗](https://coawp.com/go/8b1a999a-7cd1-4751-b686-d8f9a09d69ce?from=github-business) |
 | **Agropur** | Shipper, Student | Toronto, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/a0ce4a74-dea6-4c23-bbaa-f7b75d0d1519?from=github-business) |
 | **BMO** | Tax Specialist, Co-op | Ontario<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/8099c74d-e4f9-4cae-9043-55100bf22d78?from=github-business) |
@@ -203,8 +204,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Personal Banking Operations, Intern | Toronto, ON<br>Montréal, QC<br><sub>+1 more</sub> | Summer 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/1fa7b6e6-9c95-4c6b-bb17-d7b602f6b0ca?from=github-business) |
 | **Yukon Hospital Corporation** | First Nations Youth, Intern | Dawson City, YT | — | Oct 26 | [Apply ↗](https://coawp.com/go/999f587a-ed47-4409-b1f3-275f70465b10?from=github-business) |
 | **Tenstorrent** | Business Operations & Program Management, Intern | Toronto, ON | 4 months | Oct 26 | [Apply ↗](https://coawp.com/go/55f24078-dc59-4efa-a612-8269fd0d8d66?from=github-business) |
-| **Cintas** | Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/8ea80a86-529e-4312-9a63-71c77df0d24a?from=github-business) |
-| ↳ | Trainee, Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/238c4ea3-da7b-4ab0-99ca-4e15060b5fbd?from=github-business) |
+| **Cintas** | Trainee, Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/238c4ea3-da7b-4ab0-99ca-4e15060b5fbd?from=github-business) |
 | **Enterprise Mobility Canada** | Management Trainee, Intern | Winnipeg, MB | Winter 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/e18dce05-16b4-465c-9c60-4db1a9f9b773?from=github-business) |
 | **ARC Resources** | Supply Chain Management, Co-op | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/d2f93246-ac36-4634-b07c-8d4d041e4239?from=github-business) |
 | **Bombardier** | Customer Service – Technical Services, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/25ffb873-69b6-4a7c-ab14-59ace165766f?from=github-business) |
