@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**480 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**481 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
 | [Business Operations](#business-operations) | 266 | 38 |
-| [Marketing & Communications](#marketing--communications) | 76 | 7 |
+| [Marketing & Communications](#marketing--communications) | 77 | 7 |
 | [Sales & Business Development](#sales--business-development) | 52 | 8 |
 | [Human Resources](#human-resources) | 55 | 8 |
 
@@ -336,7 +336,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>76 open roles</sub>
+<sub>77 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -359,6 +359,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Eli Lilly Canada** | Consumer Marketing, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/0a169d25-5e94-4708-b50c-fc50226a50c7?from=github-business) |
 | ↳ | Marketing – Cardiometabolic Health, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/df259d1a-5eef-4d2a-b64c-38cf1bc7c740?from=github-business) |
 | **Manulife** | Canada Retail Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/de1b87a3-4121-428a-b2e7-cbfccf77020c?from=github-business) |
+| ↳ | Digital Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/24767e30-2ef1-40f3-93e8-70d5a38843b3?from=github-business) |
 | **Kensington Tours** | Marketing – Web, Intern | Toronto, ON | — | Nov 9 | [Apply ↗](https://coawp.com/go/f9b8ddaa-d1f7-4522-ae82-6eec9af646e4?from=github-business) |
 | **Fleetway** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/b001d197-e48c-42f8-9eaf-9164ee018591?from=github-business) |
 | **J.D. Irving** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/054a76a9-886b-4de3-b008-fd4b19444baf?from=github-business) |
