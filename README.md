@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**482 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**480 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,8 +12,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
-| [Business Operations](#business-operations) | 267 | 38 |
-| [Marketing & Communications](#marketing--communications) | 77 | 7 |
+| [Business Operations](#business-operations) | 266 | 38 |
+| [Marketing & Communications](#marketing--communications) | 76 | 7 |
 | [Sales & Business Development](#sales--business-development) | 52 | 8 |
 | [Human Resources](#human-resources) | 55 | 8 |
 
@@ -61,7 +61,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>267 open roles</sub>
+<sub>266 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -166,7 +166,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Maple Leaf Sports & Entertainment** | Digital Operation, Intern | Toronto, ON | — | Nov 3 | [Apply ↗](https://coawp.com/go/77de877d-dc5d-4568-9f24-7b292f0ff14d?from=github-business) |
 | **Federated Co-op Retail** | Gas Bar Attendant, Student | Davidson, SK | — | Nov 3 | [Apply ↗](https://coawp.com/go/914154ee-1470-4c03-ae79-e4e540429e9c?from=github-business) |
 | ↳ | Ag Solutions, Intern | Saskatchewan | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/2a1831e6-8a16-4a63-8429-d2a79b3ad0b5?from=github-business) |
-| ↳ | Assistant Food Store Manager, Co-op | Martensville, SK | — | Nov 3 | [Apply ↗](https://coawp.com/go/59bd70f4-ff81-4c6a-9f9f-357c7151bf58?from=github-business) |
 | **Bombardier** | Strategy and Governance – Operations Support, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>12 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/969e96d9-bc26-4606-9d92-fe1422ff8256?from=github-business) |
 | ↳ | Strategy and Governance – Operations Support, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>12 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/351f12d0-98c0-4b98-b203-0545f5dc7862?from=github-business) |
 | **TC Energy** | Gas Operations, Intern | North Bay, ON | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/1f06524c-51ae-4c27-8cef-61edef0593c1?from=github-business) |
@@ -337,7 +336,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>77 open roles</sub>
+<sub>76 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -360,7 +359,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Eli Lilly Canada** | Consumer Marketing, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/0a169d25-5e94-4708-b50c-fc50226a50c7?from=github-business) |
 | ↳ | Marketing – Cardiometabolic Health, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/df259d1a-5eef-4d2a-b64c-38cf1bc7c740?from=github-business) |
 | **Manulife** | Canada Retail Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/de1b87a3-4121-428a-b2e7-cbfccf77020c?from=github-business) |
-| ↳ | Digital Marketing, Co-op | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/46a2a5f7-f917-4e6f-a559-8faf23e91339?from=github-business) |
 | **Kensington Tours** | Marketing – Web, Intern | Toronto, ON | — | Nov 9 | [Apply ↗](https://coawp.com/go/f9b8ddaa-d1f7-4522-ae82-6eec9af646e4?from=github-business) |
 | **Fleetway** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/b001d197-e48c-42f8-9eaf-9164ee018591?from=github-business) |
 | **J.D. Irving** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/054a76a9-886b-4de3-b008-fd4b19444baf?from=github-business) |
