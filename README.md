@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**481 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**480 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 32 | 5 |
-| [Business Operations](#business-operations) | 265 | 29 |
+| [Business Operations](#business-operations) | 264 | 29 |
 | [Marketing & Communications](#marketing--communications) | 77 | 6 |
 | [Sales & Business Development](#sales--business-development) | 52 | 5 |
 | [Human Resources](#human-resources) | 55 | 7 |
@@ -62,7 +62,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>265 open roles</sub>
+<sub>264 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -161,7 +161,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **BDO Canada** | Personal Debt Solutions Admin, Co-op | St. John's, NL | Winter 2027<br><sub>4 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/61fa716e-6724-4d70-b39e-f20eeb72919d?from=github-business) |
 | **Cardinal Health** | Warehouse Associate, Student | Vaughan, ON | 6 months | Nov 4 | [Apply ↗](https://coawp.com/go/c3e12b94-22a3-4259-bae8-9dc0ad62d689?from=github-business) |
 | **Oak Valley Health** | Unit Secretary – Medicine and Transitional Bed Unit, Student | Markham, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/6cf79970-f0cf-4c4c-be52-340a5d3e6616?from=github-business) |
-| **Federated Co-op Retail** | Assistant Food Store Manager, Co-op | Saskatoon, SK | — | Nov 4 | [Apply ↗](https://coawp.com/go/f648c24b-280d-428e-9670-4229d477389b?from=github-business) |
 | **Combined Metal Industries** | Yard Grader, Student | Cambridge, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/e8936290-82bc-47ba-9349-625a9fbadf93?from=github-business) |
 | **Volvo Group (Nova Bus, Prevost, Volvo Trucks Canada)** | Industrial Engineering – Continuous Improvement, Intern<br><sub>Requires French</sub> | Sainte-Foy, QC | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/22d00454-25fb-4468-b9a9-b602380aee5a?from=github-business) |
 | **Maple Leaf Sports & Entertainment** | Digital Operation, Intern | Toronto, ON | — | Nov 3 | [Apply ↗](https://coawp.com/go/77de877d-dc5d-4568-9f24-7b292f0ff14d?from=github-business) |
