@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**481 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**479 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 31 | 7 |
-| [Business Operations](#business-operations) | 266 | 39 |
+| [Business Operations](#business-operations) | 264 | 38 |
 | [Marketing & Communications](#marketing--communications) | 77 | 7 |
 | [Sales & Business Development](#sales--business-development) | 52 | 8 |
 | [Human Resources](#human-resources) | 55 | 8 |
@@ -61,7 +61,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>266 open roles</sub>
+<sub>264 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -86,7 +86,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Cintas** | Intern | London, ON | — | Nov 18 | [Apply ↗](https://coawp.com/go/88d3d479-73dc-4975-9c0f-96b91159c553?from=github-business) |
 | **Manulife** | Change Management, Intern | Toronto, ON | Summer 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/21a87e32-f445-4bff-8a0b-cf49d6ce6b1c?from=github-business) |
 | **Oak Valley Health** | Unit Secretary – Paediatric Assessment Clinic, Student | Markham, ON | — | Nov 18 | [Apply ↗](https://coawp.com/go/1eff2541-e46f-4a18-a4af-0a68f3f8a4c4?from=github-business) |
-| **Zurich Canada** | Transformation & Business Process, Co-op | Toronto, ON | — | Nov 18 | [Apply ↗](https://coawp.com/go/9f82b0fa-fe5f-467e-9b21-369bcdd07750?from=github-business) |
 | **Veolia** | Fleet Management and Coordination, Intern | Montréal, QC | — | Nov 17 | [Apply ↗](https://coawp.com/go/760536fd-4b93-49e0-ad34-d7446ed8b9ca?from=github-business) |
 | **Aecon** | Environment Health & Safety, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/b203e217-26ed-442c-8342-042c625c3b43?from=github-business) |
 | **Saputo** | Warehousing & Distribution, Intern | Edmonton, AB | Summer 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/61df04c5-6170-41ac-9549-de46c46a7b7c?from=github-business) |
@@ -112,7 +111,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Saputo** | Inventory Coordinator, Intern | Edmonton, AB | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/519f5cf7-46c0-48e2-a311-e131d8044f78?from=github-business) |
 | ↳ | Maintenance Administrator, Intern | Red Deer, AB | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/62e2a58d-ba1e-4950-8608-9c62a0d39924?from=github-business) |
 | ↳ | Maintenance, Intern | Edmonton, AB | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/781f6f4c-d8fa-4892-97e6-78f124a5b2d5?from=github-business) |
-| **Zurich Canada** | Sales & Customer Office, Intern | Toronto, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/5f581a1c-6a71-4cbb-8d15-8337d56fa8a2?from=github-business) |
 | **PCL Construction** | Administrative, Intern | Alberta | Winter 2027<br><sub>4 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/222c68ec-1caf-45a5-bbca-ce5434d89bc3?from=github-business) |
 | **SKYGRiD Construction** | Construction Site, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/2e3e4d6a-77ae-4dff-92a3-d6a5db5705a2?from=github-business) |
 | **Bison Transport** | Customer Service, Student | Winnipeg, MB | Winter 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/ed9f7d03-43c0-4dca-9d4d-c4c61c9d973a?from=github-business) |
