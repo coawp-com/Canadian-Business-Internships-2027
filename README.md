@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**480 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**481 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Consulting & Strategy](#consulting--strategy) | 31 | 4 |
+| [Consulting & Strategy](#consulting--strategy) | 32 | 5 |
 | [Business Operations](#business-operations) | 265 | 29 |
 | [Marketing & Communications](#marketing--communications) | 77 | 6 |
 | [Sales & Business Development](#sales--business-development) | 52 | 5 |
@@ -21,10 +21,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Consulting & Strategy
 
-<sub>31 open roles</sub>
+<sub>32 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Manulife** | Strategy, Co-op | Toronto, ON | Winter 2027 | Nov 21 | [Apply ↗](https://coawp.com/go/7fab4586-c0fd-43ed-9935-43c38d3b6daa?from=github-business) |
 | **KPMG** | Consulting, Co-op | Victoria, BC | Fall 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/e5b2feb3-79ca-4745-8d91-24081f37bcaf?from=github-business) |
 | ↳ | Consulting, Co-op | Vancouver, BC | Fall 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/ae0d380d-3f89-485a-a3d7-2b26546e942e?from=github-business) |
 | **Accenture** | Strategy Consultant Development Program, Intern | Toronto, ON<br>Calgary, AB<br><sub>+1 more</sub> | Summer 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/852a4915-dbb8-42ef-b484-ea7e8eb1ab85?from=github-business) |
