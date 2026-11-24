@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**471 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**473 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 26 | 4 |
 | [Business Operations](#business-operations) | 264 | 31 |
-| [Marketing & Communications](#marketing--communications) | 73 | 10 |
+| [Marketing & Communications](#marketing--communications) | 75 | 11 |
 | [Sales & Business Development](#sales--business-development) | 53 | 6 |
 | [Human Resources](#human-resources) | 55 | 6 |
 
@@ -329,10 +329,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>73 open roles</sub>
+<sub>75 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Jonas Software** | AI Enablement, Co-op | Markham, ON | — | Nov 23 | [Apply ↗](https://coawp.com/go/6b45ada8-7d94-4740-a98d-362c2a979ab9?from=github-business) |
 | **Kensington Tours** | Social Impact, Intern | Toronto, ON | — | Nov 23 | [Apply ↗](https://coawp.com/go/2033733e-5bc5-4c7e-acf7-f8ab77d1a8bf?from=github-business) |
 | **Fleetway** | Communications, Intern | Saint John, NB | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/0b5fdfd7-f021-4096-823a-8d69e08ec0e0?from=github-business) |
 | **J.D. Irving** | Communications, Intern | Saint John, NB | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/f18ebf31-dc32-4d32-bf3d-cccdf9287db9?from=github-business) |
@@ -401,6 +402,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Bombardier** | Marketing – Employer Brand, Intern | Dorval, QC | Winter 2027<br><sub>4 months</sub> | Sep 27 | [Apply ↗](https://coawp.com/go/2c9f3bd9-28ca-46c6-86b7-8bc4fa75df42?from=github-business) |
 | ↳ | Marketing Employer Brand, Intern | Dorval, QC | Winter 2027<br><sub>4 months</sub> | Sep 27 | [Apply ↗](https://coawp.com/go/8ec1055c-c626-42e4-a8ec-d933d0fd9641?from=github-business) |
 | **FISPAN** | Product Enablement Specialist, Co-op | Vancouver, BC<br><sub>Hybrid</sub> | — | Sep 27 | [Apply ↗](https://coawp.com/go/38f43f92-3ebb-48d7-9514-b506eed80112?from=github-business) |
+| **Kenvue** | Associate Brand Manager, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/b1c754c5-0d3c-4a05-b78e-f339a1d49b89?from=github-business) |
 | **Friendlier** | Campus Leader, Intern | Toronto, ON<br><sub>Remote</sub> | — | Sep 20 | [Apply ↗](https://coawp.com/go/7fb7381c-cc64-4c0e-a8ff-b4218eda3b1f?from=github-business) |
 | **Geotab** | Marketing – Latin America, Intern | Oakville, ON | Winter 2027<br><sub>12 months</sub> | Sep 1 | [Apply ↗](https://coawp.com/go/e6775d1b-723c-4983-9a8b-62916917a208?from=github-business) |
 | **Pearson** | Student Ambassador | Canada | — | Aug 26 | [Apply ↗](https://coawp.com/go/5564a1bc-4046-4c15-9614-21769ef7deee?from=github-business) |
