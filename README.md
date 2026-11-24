@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**472 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**471 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 26 | 4 |
 | [Business Operations](#business-operations) | 264 | 31 |
-| [Marketing & Communications](#marketing--communications) | 74 | 10 |
+| [Marketing & Communications](#marketing--communications) | 73 | 10 |
 | [Sales & Business Development](#sales--business-development) | 53 | 6 |
 | [Human Resources](#human-resources) | 55 | 6 |
 
@@ -329,7 +329,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>74 open roles</sub>
+<sub>73 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -378,7 +378,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **1milk2sugars** | PR, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/a1566ed6-e951-4208-916f-54cc6dff6b72?from=github-business) |
 | ↳ | Public Relations, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/0b310502-7ee6-4496-bc18-f5e8de904ca2?from=github-business) |
 | ↳ | Social Media (Digital), Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/1c7cadf7-140c-4694-87a8-810787a026e9?from=github-business) |
-| **Eli Lilly Canada** | Medical Affairs – Medical Education, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/ca8162eb-3c8b-47ea-b0ea-609a30e42b46?from=github-business) |
 | **P&G** | Sales and Marketing, Co-op | Toronto, ON | Summer 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/76069c99-baee-455b-b027-34cfe94cced7?from=github-business) |
 | **SOTI** | Marketing Coordinator, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/cf2e4770-e74b-4cb8-a55c-45f89ec3d012?from=github-business) |
 | **EQ Bank** | Acquisition Strategy, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/a98c5240-e526-4551-ae09-e73c57dacb57?from=github-business) |
