@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**466 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**465 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 28 | 3 |
 | [Business Operations](#business-operations) | 262 | 32 |
-| [Marketing & Communications](#marketing--communications) | 71 | 9 |
+| [Marketing & Communications](#marketing--communications) | 70 | 9 |
 | [Sales & Business Development](#sales--business-development) | 53 | 5 |
 | [Human Resources](#human-resources) | 52 | 4 |
 
@@ -329,7 +329,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>71 open roles</sub>
+<sub>70 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -371,7 +371,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AltaGas** | Community and Indigenous Relations, Intern | Prince Rupert, BC | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/9915a556-fd6d-4eda-8e5d-289a657675e9?from=github-business) |
 | **Kensington Tours** | Luxury Events & Content Marketing, Intern | Toronto, ON | — | Oct 28 | [Apply ↗](https://coawp.com/go/e80f0e75-cf81-40b9-b15d-b353c049ba13?from=github-business) |
 | **Mission Control Space Services** | Content Creation & Video, Intern | Ottawa, ON | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/ff8cc718-5a42-49eb-b7f6-0cef52431e81?from=github-business) |
-| **Trimble** | Marketing, Intern | Richmond Hill, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/fc81a446-8466-4b95-ba68-386e3264463e?from=github-business) |
 | **Sandoz** | Marketing – New Launches, Intern<br><sub>Requires French</sub> | Saint-Hubert, QC | — | Oct 25 | [Apply ↗](https://coawp.com/go/80956394-4042-4021-bc38-d7d3656c7682?from=github-business) |
 | ↳ | Marketing – Physicians, Intern<br><sub>Requires French</sub> | Saint-Hubert, QC | — | Oct 25 | [Apply ↗](https://coawp.com/go/fb5a914e-ffff-470a-87b4-78d9173b3485?from=github-business) |
 | **HarperCollins Canada** | Marketing (Trade), Intern | Toronto, ON | 12 months | Oct 23 | [Apply ↗](https://coawp.com/go/6cfb84e9-c66e-407c-9842-9bdd7b2ebe5a?from=github-business) |
