@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**465 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**466 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 28 | 3 |
-| [Business Operations](#business-operations) | 262 | 32 |
+| [Business Operations](#business-operations) | 263 | 32 |
 | [Marketing & Communications](#marketing--communications) | 70 | 9 |
 | [Sales & Business Development](#sales--business-development) | 53 | 5 |
 | [Human Resources](#human-resources) | 52 | 4 |
@@ -58,7 +58,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>262 open roles</sub>
+<sub>263 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -196,6 +196,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Project Coordination and Supplier Management, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>12 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/d39526da-76f6-437d-a525-c1e936de0761?from=github-business) |
 | **Cargill** | Operations Management – Food Manufacturing, Intern | High River, AB | Summer 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/1f48019a-bf3d-44e8-bb66-590b60ea26bb?from=github-business) |
 | **Oak Valley Health** | Unit Secretary – Perioperative Department, Student | Markham, ON | — | Oct 29 | [Apply ↗](https://coawp.com/go/7eb7cfad-1cc5-4257-90a6-c1330f335303?from=github-business) |
+| **RBC** | Student, Co-op | Toronto, ON | — | Oct 29 | [Apply ↗](https://coawp.com/go/bc5d47c9-3ba6-42e0-bfe0-50a8d8ef2b87?from=github-business) |
 | **BDO Canada** | Administration, Co-op | London, ON<br>Windsor, ON<br><sub>+4 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/6913f57d-5ae8-41c9-a86d-60af4c91e09b?from=github-business) |
 | **Moderna** | Operational Excellence, Intern | Toronto, ON<br>Canada | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/7b3dddaf-efab-44e3-a33c-6563c8254bdb?from=github-business) |
 | **PSP Investments** | Market Data Vendors, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/ad2df09a-d94b-45a2-85c9-cf5fc320a20d?from=github-business) |
