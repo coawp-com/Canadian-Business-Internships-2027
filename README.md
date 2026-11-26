@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**465 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**464 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Consulting & Strategy](#consulting--strategy) | 28 | 5 |
+| [Consulting & Strategy](#consulting--strategy) | 27 | 5 |
 | [Business Operations](#business-operations) | 263 | 48 |
 | [Marketing & Communications](#marketing--communications) | 69 | 10 |
 | [Sales & Business Development](#sales--business-development) | 53 | 7 |
@@ -21,7 +21,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Consulting & Strategy
 
-<sub>28 open roles</sub>
+<sub>27 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -30,7 +30,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Manulife** | Strategy, Co-op | Toronto, ON | Winter 2027 | Nov 21 | [Apply ↗](https://coawp.com/go/7fab4586-c0fd-43ed-9935-43c38d3b6daa?from=github-business) |
 | **KPMG** | Consulting, Co-op | Victoria, BC | Fall 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/e5b2feb3-79ca-4745-8d91-24081f37bcaf?from=github-business) |
 | ↳ | Consulting, Co-op | Vancouver, BC | Fall 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/ae0d380d-3f89-485a-a3d7-2b26546e942e?from=github-business) |
-| **Accenture** | Strategy Consultant Development Program, Intern | Toronto, ON<br>Calgary, AB<br><sub>+1 more</sub> | Summer 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/852a4915-dbb8-42ef-b484-ea7e8eb1ab85?from=github-business) |
 | **Definity** | Technology Strategy, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/87fd0582-dea1-4b47-9bc1-7b1dcee6c2de?from=github-business) |
 | **KPMG** | Consulting, Operations – Government Solutions, Co-op | Edmonton, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/3f41dc8c-cc7d-4c3f-998f-ce62e8629913?from=github-business) |
 | ↳ | Consulting, Co-op | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/b27531fa-1a2d-4155-aabe-88c9fac40a7c?from=github-business) |
