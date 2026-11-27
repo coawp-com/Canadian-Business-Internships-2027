@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**459 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**461 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,8 +12,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 28 | 3 |
-| [Business Operations](#business-operations) | 260 | 30 |
-| [Marketing & Communications](#marketing--communications) | 68 | 11 |
+| [Business Operations](#business-operations) | 261 | 31 |
+| [Marketing & Communications](#marketing--communications) | 69 | 12 |
 | [Sales & Business Development](#sales--business-development) | 53 | 4 |
 | [Human Resources](#human-resources) | 50 | 6 |
 
@@ -58,10 +58,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>260 open roles</sub>
+<sub>261 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **CN** | Mechanical Car, Intern | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/5b037f2c-4c22-4027-8fbf-9a62ba03b728?from=github-business) |
 | **Federated Co-op Retail** | Pump Attendant, Co-op | Saskatchewan | — | Nov 26 | [Apply ↗](https://coawp.com/go/8769c7c8-3ecd-4a90-8244-9f633e874b54?from=github-business) |
 | **BMO** | Private Client, Intern | Toronto, ON | — | Nov 25 | [Apply ↗](https://coawp.com/go/b4a696a0-2191-4179-ad7e-f920c2776e40?from=github-business) |
 | **CAE** | Manufacturing Operations Management, Intern | Montréal, QC | Winter 2027<br><sub>4 or 6 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/cec4ba12-56ee-4ec0-8e1b-493c89286e07?from=github-business) |
@@ -327,10 +328,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Marketing & Communications
 
-<sub>68 open roles</sub>
+<sub>69 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Calgary Sports and Entertainment Corporation** | Marketing, Intern | Calgary, AB | 8 months | Nov 27 | [Apply ↗](https://coawp.com/go/e0fdb007-65a7-462e-8804-14dcecf589a0?from=github-business) |
 | **Sun Life** | Advisor Recruitment Marketing & Program Coordinator, Intern | Toronto, ON<br>King, ON<br><sub>+1 more</sub> | Winter 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/8194c207-98fd-466a-bbac-b7accfb748bb?from=github-business) |
 | **Humber River Health** | Corporate Communications, Student | Toronto, ON | — | Nov 26 | [Apply ↗](https://coawp.com/go/380cc1d6-4099-4d94-a118-5a12ee9bbac2?from=github-business) |
 | **Manulife** | Global WAM Marketing Strategy Operations, Co-op | Toronto, ON | Summer 2027 | Nov 24 | [Apply ↗](https://coawp.com/go/dad3ce9a-6a58-481d-9711-e9586bcd33a6?from=github-business) |
