@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**471 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**475 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 29 | 4 |
-| [Business Operations](#business-operations) | 266 | 36 |
+| [Business Operations](#business-operations) | 270 | 41 |
 | [Marketing & Communications](#marketing--communications) | 69 | 12 |
 | [Sales & Business Development](#sales--business-development) | 54 | 5 |
 | [Human Resources](#human-resources) | 53 | 9 |
@@ -59,16 +59,21 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>266 open roles</sub>
+<sub>270 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **ATCO** | Business Process, Co-op | Edmonton, AB | Winter 2027<br><sub>12 or 16 months</sub> | Nov 27 | [Apply ↗](https://coawp.com/go/89c0a943-3a39-4fd6-bafd-ff82f5b30e1c?from=github-business) |
 | **Federated Co-op Retail** | Meat Department Manager, Co-op | Martensville, SK | — | Nov 27 | [Apply ↗](https://coawp.com/go/1a9c7e5c-5807-41b5-9917-38b8480de2d0?from=github-business) |
 | **CN** | Market Analyst – Regional Sales, Intern | Brampton, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/c2eda94e-5a71-4a07-9421-ec2172887429?from=github-business) |
 | ↳ | Mechanical Car, Intern | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/5b037f2c-4c22-4027-8fbf-9a62ba03b728?from=github-business) |
 | ↳ | Procurement – Center of Expertise, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/77fb0b7d-7646-4ef5-80bc-ffb9929bbccc?from=github-business) |
+| ↳ | Procurement – Construction and Specialized Services, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/c0310f23-2f03-47f7-b6f1-aff22da42a1a?from=github-business) |
 | ↳ | Procurement – Engineering Materials, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/5ec990f1-2cb1-462c-bf58-767b6cb1d679?from=github-business) |
+| ↳ | Procurement – Mechanical, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/e863eac7-4a77-4f94-a9f0-866aa5f809bd?from=github-business) |
+| ↳ | Procurement – Performance, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/dd87ccf1-7b8e-4e7e-8a02-aef1cca2af25?from=github-business) |
 | ↳ | Work Equipment and Fleet, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/c2d0d32a-4894-480a-9ad4-6e2119c34de9?from=github-business) |
+| **Desjardins** | Office Work and Operations Agent, Student<br><sub>Requires French</sub> | Lévis, QC<br><sub>Hybrid</sub> | 12 months | Nov 26 | [Apply ↗](https://coawp.com/go/c42af0a4-f724-4482-9598-fce42afd2953?from=github-business) |
 | **Federated Co-op Retail** | Pump Attendant, Co-op | Saskatchewan | — | Nov 26 | [Apply ↗](https://coawp.com/go/8769c7c8-3ecd-4a90-8244-9f633e874b54?from=github-business) |
 | **BMO** | Private Client, Intern | Toronto, ON | — | Nov 25 | [Apply ↗](https://coawp.com/go/b4a696a0-2191-4179-ad7e-f920c2776e40?from=github-business) |
 | **CAE** | Manufacturing Operations Management, Intern | Montréal, QC | Winter 2027<br><sub>4 or 6 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/cec4ba12-56ee-4ec0-8e1b-493c89286e07?from=github-business) |
@@ -170,7 +175,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Canadian Tire** | Dealer Support Coordinator, Intern | Canada | Winter 2027<br><sub>4 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/340ef3ef-1e16-4ed1-b038-d6c610c15c18?from=github-business) |
 | **Cargill** | Crop Input Summer Student | Vermilion, AB | — | Nov 8 | [Apply ↗](https://coawp.com/go/0942d5f0-bc81-4f43-99b2-53891ba34b77?from=github-business) |
 | **Spartan Controls** | Proposal Coordinator, Co-op | Calgary, AB | Summer 2027<br><sub>12 or 16 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/270a2987-f0b0-44a1-877b-22375284949b?from=github-business) |
-| **Bird Construction** | Supply Chain & Fleet Management Coordinator, Student | Calgary, AB | Winter 2027<br><sub>8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/b66563cf-7034-48b9-8837-b47cdaa6f5b2?from=github-business) |
 | **Cargill** | Crop Inputs Summer Student | Camrose, AB | — | Nov 5 | [Apply ↗](https://coawp.com/go/c97627a7-9461-468a-a532-7fec20a73d92?from=github-business) |
 | **PCL Construction** | Estimating, Intern | Oakville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/a6a91390-ff8e-4ced-8c37-9b1e3240db9e?from=github-business) |
 | **Saputo** | Transport and Fleet, Intern | Saskatoon, SK | — | Nov 5 | [Apply ↗](https://coawp.com/go/5bd68a5c-6ffc-4f63-83e6-db23e45d0472?from=github-business) |
