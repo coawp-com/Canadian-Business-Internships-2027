@@ -2,7 +2,7 @@
 
 # Canadian Business Internships 2027
 
-**474 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**472 open internships, co-ops and student jobs** in operations, marketing, sales, consulting, strategy and HR across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Consulting & Strategy](#consulting--strategy) | 29 | 4 |
-| [Business Operations](#business-operations) | 269 | 40 |
+| [Business Operations](#business-operations) | 267 | 39 |
 | [Marketing & Communications](#marketing--communications) | 69 | 12 |
 | [Sales & Business Development](#sales--business-development) | 54 | 5 |
 | [Human Resources](#human-resources) | 53 | 9 |
@@ -59,7 +59,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Business Operations
 
-<sub>269 open roles</sub>
+<sub>267 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -102,11 +102,9 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Saputo** | Continuous Improvement, Intern | Vaughan, ON | Summer 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/57aaca83-f4ba-44dc-a7aa-974db035c5df?from=github-business) |
 | ↳ | Continuous Improvement, Intern | Brandon, MB | Summer 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/58c507bd-ddf3-484b-b213-98a1157befc0?from=github-business) |
 | ↳ | Continuous Improvement, Intern | Montréal, QC | Summer 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/150340b0-4da5-45ac-8b2d-8a0611ce25d3?from=github-business) |
-| **Sun Life** | Project Specialist, Intern | Toronto, ON<br>Waterloo, ON | Winter 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/3826f9c6-bb80-4391-bd0f-6192df38defd?from=github-business) |
 | **Manulife** | Operations Management, Intern | Toronto, ON | Summer 2027<br><sub>8 months</sub> | Nov 21 | [Apply ↗](https://coawp.com/go/d2bfcca5-1bf6-45d5-9b6a-9304959f3019?from=github-business) |
 | **Mark Anthony Group** | Quality Systems Technician, Co-op | Vancouver, BC | — | Nov 20 | [Apply ↗](https://coawp.com/go/8b1a999a-7cd1-4751-b686-d8f9a09d69ce?from=github-business) |
 | **Agropur** | Shipper, Student | Toronto, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/a0ce4a74-dea6-4c23-bbaa-f7b75d0d1519?from=github-business) |
-| **BMO** | Tax Specialist, Co-op | Ontario<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/8099c74d-e4f9-4cae-9043-55100bf22d78?from=github-business) |
 | **Cintas** | Intern | Mississauga, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/3644dff5-3453-4093-993c-2acbdbfc430c?from=github-business) |
 | **Hatch** | Commercial, Intern | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/bebce688-7360-4532-9785-d01f1c8df259?from=github-business) |
 | **iA Financial Group** | Plan Administrator, Student<br><sub>Requires French</sub> | Québec, QC<br>Montréal, QC | Winter 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/961277eb-d169-485c-ad9c-0a5aa9b1b07e?from=github-business) |
